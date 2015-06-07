@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>Login.qml</file>
+        <file>LoginForm.ui.qml</file>
+        <file>WindowControlButton.qml</file>
+        <file>LineEdit.qml</file>
+    </qresource>
+    <qresource prefix="/resources/images">
+        <file alias="imgClose">close.png</file>
+        <file alias="imgMin">minimize.png</file>
+    </qresource>
+</RCC>
